@@ -3,3 +3,5 @@
 Topics Covered :
 Arrays
 search Algorithms
+Sorting ALgorithms
+
