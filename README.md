@@ -2,3 +2,4 @@
 
 Topics Covered :
 Arrays
+search Algorithms
