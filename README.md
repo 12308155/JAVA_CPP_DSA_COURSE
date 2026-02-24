@@ -5,10 +5,13 @@ Arrays
 search Algorithms
 Sorting ALgorithms
 
-Recursion
-tower of honoi 
-suduko
-strings done
-remove parathesis
-cpp_ cpcepts learning
+* Recursion
+* tower of honoi
+* suduko
+* strings done
+* remove parathesis
+* cpp_ cpcepts learning
+* preorder traversal
+* post order traversal
+* inoreder traversal
 
