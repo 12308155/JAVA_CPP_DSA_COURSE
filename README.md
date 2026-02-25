@@ -14,4 +14,5 @@ Sorting ALgorithms
 * preorder traversal
 * post order traversal
 * inoreder traversal
+* done Linked list part
 
